@@ -1,2 +1,17 @@
+# Python キャッシュファイル
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# macOS 隠しファイル
+.DS_Store
+
+# 仮想環境（存在する場合）
+venv/
+.env/
+
+# IDE / エディタ
+.vscode/
+.idea/
+
